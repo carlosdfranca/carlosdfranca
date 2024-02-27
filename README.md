@@ -2,7 +2,7 @@
 
 - 🔭 Estou trabalhando em projetos com Python
 - 🌱 Estou estudando a linguagem Python
-- 📫 Contate-me no e-mail: carlosdudu258@gmail.com
+- 📫 Contate-me no e-mail: carlofranca.dev@gmail.com
 
 
 ##
