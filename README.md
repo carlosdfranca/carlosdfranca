@@ -1,8 +1,18 @@
 ### Olá!👋 Eu sou o Carlos.
+Desenvolvedor Python na RPSIS
 
-- 🔭 Estou trabalhando em projetos com Python
-- 🌱 Estou estudando a linguagem Python
-- 📫 Contate-me no e-mail: carlofranca.dev@gmail.com
+- 💼 Estou trabalhando em projetos com **Python** na empresa **RPSIS**
+- 📝 Estou estudando a linguagem **Python**, **AWS** e **Análise de Dados**
+- 📫 Contate-me no e-mail: **carlofranca.dev@gmail.com**
+
+<div display="inline">
+	<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+	<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
+	<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
+	<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+</div>
+
+          
 
 
 ##
